@@ -24,7 +24,7 @@ HTML5 | CSS3 | JavaScript (ES6+) | MediaPipe Hands | Web Speech API | SVG | Web 
 ]  
 - **Local Setup:**  
   1. Clone the repo:  
-     `git clone https://github.com/yourusername/gesturide.git`  
+     `git clone https://github.com/Meghana1816/gesturide.git`  
   2. Open `index.html` in a modern browser (Chrome or Edge recommended).  
   3. Allow webcam access for gesture controls.  
   4. Use hand gestures, voice commands, or keyboard arrows to play.
